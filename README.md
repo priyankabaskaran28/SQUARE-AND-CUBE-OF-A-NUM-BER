@@ -65,7 +65,7 @@ END
 
 ## OUTPUT
 <img width="439" height="320" alt="image" src="https://github.com/user-attachments/assets/9e836103-7775-4f2b-8e09-ce197c97eb75" />
-<img width="578" height="1280" alt="image" src="https://github.com/user-attachments/assets/ebdc9487-4b5d-4868-81c2-c17820c8db47" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/ebdc9487-4b5d-4868-81c2-c17820c8db47" />
 
 
 ## RESULT
